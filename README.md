@@ -1,1 +1,23 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=23689528&assignment_repo_type=AssignmentRepo)
+## Project Truth In Sight
+
+
+
+### Truth In Sight
+- 이 게임은 마피아 형식의 비대칭 추리 게임입니다. 시민 사이에 숨어있는 광신도를 찾아내는 게임입니다.
+- 장르 : 마피아 형식의 비대칭 추리 게임
+- 플레이 타임 : 10분
+- 개발 환경 : Unity 6000.3.9f1
+- 플랫폼 : Windows
+- 프로젝트 기간 : 3주
+- Itchio 업로드 주소 : https://nekioemilia.itch.io/truth-in-sight
+### 게임 특징
+- 일반 시민팀은 발전기를 돌려 탈출을 해야합니다.
+- 광신도팀은 시민팀이 모르게 갇혀있는 괴물을 풀어주어야 합니다.
+- 일반 시민이 바라보는 시점과 광신도 팀이 바라보는 시점이 다른 점이 재미 요소입니다.
+### 플레이 방법
+- 이동 : WASD
+- 회전 : 마우스
+- 점프 : SPACE바
+- 상호작용 : E
+- 달리기 : Shift
+- 죽은 후 관전 변경 : Q
