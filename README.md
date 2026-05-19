@@ -1,6 +1,6 @@
 ## Project Truth In Sight
 
-
+<img width="959" height="538" alt="캡처4445" src="https://github.com/user-attachments/assets/b5e0f117-b236-4ddc-bec2-3825f05c68b4" />
 
 ### Truth In Sight
 - 이 게임은 마피아 형식의 비대칭 추리 게임입니다. 시민 사이에 숨어있는 광신도를 찾아내는 게임입니다.
